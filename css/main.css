@@ -774,6 +774,9 @@ body {
 .gr-pt-9,
 .gr-py-9 {
   padding-top: 2.8125rem !important;
+  /* my code */
+  margin-bottom: 40px;
+
 }
 
 .gr-pr-9,
@@ -869,7 +872,8 @@ body {
 
 .gr-pt-13,
 .gr-py-13 {
-  padding-top: 5rem !important;
+  /* my code */
+  /* padding-top: 5rem !important; */
 }
 
 .gr-pr-13,
